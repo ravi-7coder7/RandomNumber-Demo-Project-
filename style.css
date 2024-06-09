@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#nav{
+    background-color: rgb(70, 69, 69);
+    color: rgb(209, 189, 76);
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#ask{
+    font-size:28px ;
+    text-align: center;
+    font-family:cursive;
+    padding-top: 15px;
+}
+#inputnum{
+  padding: 12px;
+  margin-left:43% ;
+  margin-top: 20px;
+  border-radius: 10px;
+
+}
+#button1{
+    margin-left: 47.9%;
+    margin-top:  15px;
+    border-radius:5px ;
+    background-color: black;
+    color: aliceblue;
+    padding: 12px;
+    font-size: 18px;
+    border-color: rgb(234, 206, 170);
+    border-width: 5px;
+
+}
+#button1:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-color: rgb(18, 18, 19);
+    
+}
+#resultRW{
+    text-align: center ;
+    padding-top: 15px;
+    font-size: 26px;
+    font-style:inherit;
+    color: rgb(165, 155, 155);
+    font-family: cursive;
+    font-family: cursive;
+}
+#resultRW::after{
+    color: rgb(133, 133, 181);
+}
+#tscoreboard{
+    text-align: center;
+    font-size: 25px;
+    border-radius: 4px;
+    border-color: black;
+    border-radius: 8px;
+    padding-top: 15px;
+
+}
+#info{
+    text-align: center;
+    color: rgba(255, 0, 0, 0.393);
+    font-size: 15px;
+    padding-top: 15px;
+
+}
+.dd{
+    background-color: black;
+    color: aliceblue;
+    position: absolute;
+    bottom: 0px;
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+}
+/* body{
+    background-image: url(images/bg2.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+} */
+.dd1{
+    text-align: center;
+    
+}
+.dd2{
+    text-align: center;
+    padding-top: 5px;
+}
+.flooer{
+    width: 100%;
+}
+.flooter{
+    background-color: rgb(88, 87, 85);
+    position:absolute;
+    bottom: 60px;
+    width: 100%;
+}
+
+.cc{
+    padding-bottom: 5px;
+    font-size: 35px;
+    color: azure;
+    text-align: center;
+}
+.at1{
+    padding-left: 37.8%;
+    padding-right: 40px;
+    position: relative;
+    top: 8px;
+    
+}
+.at2{
+    padding-right: 40px;
+    padding-bottom: 10px;
+    
+}
+.at3{
+    padding-right: 40px;
+    position: relative;
+    top: 8px;
+}
+.at4{
+    padding-right: 40px;
+    position: relative;
+    top: 8px;
+    
+}
+
+
